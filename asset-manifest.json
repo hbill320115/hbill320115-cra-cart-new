@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/hbill320115-cra-cart-new/static/css/main.f855e6bc.css",
-    "main.js": "/hbill320115-cra-cart-new/static/js/main.a70098a4.js",
+    "main.css": "/hbill320115-cra-cart-new/static/css/main.c50ef808.css",
+    "main.js": "/hbill320115-cra-cart-new/static/js/main.660a04b2.js",
     "static/js/488.62b75783.chunk.js": "/hbill320115-cra-cart-new/static/js/488.62b75783.chunk.js",
-    "static/media/logo.svg": "/hbill320115-cra-cart-new/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hbill320115-cra-cart-new/index.html",
-    "main.f855e6bc.css.map": "/hbill320115-cra-cart-new/static/css/main.f855e6bc.css.map",
-    "main.a70098a4.js.map": "/hbill320115-cra-cart-new/static/js/main.a70098a4.js.map",
+    "main.c50ef808.css.map": "/hbill320115-cra-cart-new/static/css/main.c50ef808.css.map",
+    "main.660a04b2.js.map": "/hbill320115-cra-cart-new/static/js/main.660a04b2.js.map",
     "488.62b75783.chunk.js.map": "/hbill320115-cra-cart-new/static/js/488.62b75783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a70098a4.js"
+    "static/css/main.c50ef808.css",
+    "static/js/main.660a04b2.js"
   ]
 }
